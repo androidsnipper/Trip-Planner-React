@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![](one.png)
 ![](two.png)
 ![](three.png)
-![](react_coding.png)
+![](react_coding.jpg)
 
 ## Available Scripts
 
